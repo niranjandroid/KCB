@@ -136,6 +136,7 @@ public class KaunBanegaCrorepati implements Quiz{
 
 	public boolean lockAnswer(Question q, String answer) {
 		// TODO Auto-generated method stub
+		//Niranjan
 		return false;
 	}
 
